@@ -1,6 +1,7 @@
 # circuit_by_qiskit
 
-##　概要
+
+## 概要
 
 学習した量子回路をqiskitによって実装する
 
